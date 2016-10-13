@@ -7,4 +7,4 @@
 ## Persons
 
 - [Thomas H. Cormen](http://www.cs.dartmouth.edu/~thc/)
-- [Devin Balkcom]{http://www.cs.dartmouth.edu/~devin/}
+- [Devin Balkcom](http://www.cs.dartmouth.edu/~devin/)
