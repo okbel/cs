@@ -1,4 +1,4 @@
-# Computer Science Resources
+# Computer Science Library
 
 Internal MDN to CS.
 
@@ -7,6 +7,6 @@ Internal MDN to CS.
 - [Algorithms](/algos)
 - [Papers](/papers)
 - [Books](/books)
-- [Courses](/courses)
+- [Resources](/resources)
 - [Notable People](/people)
 - [Misc](/misc)
