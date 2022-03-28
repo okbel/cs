@@ -1,4 +1,6 @@
-# Computer Science Resources
+# Computer Science Index
+
+Internal MDN to CS.
 
 ## Concepts
 
@@ -39,11 +41,7 @@
 
 - [CS 31: Fall 2016 Darthmouth CS Sylabus](http://www.cs.dartmouth.edu/~cs31/)
 
-## Persons
+## Notable People
 
 - [Thomas H. Cormen](http://www.cs.dartmouth.edu/~thc/)
 - [Devin Balkcom](http://www.cs.dartmouth.edu/~devin/)
-
-## Posts
-
-[Como prepararse para una entrevista técnica en Silicon Valley.](https://www.alejandrocrosa.com/posts/como-prepararse-para-una-entrevista-tecnica-silicon-valley.html)
