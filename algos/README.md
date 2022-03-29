@@ -4,6 +4,7 @@ Here there are some basic to complex algorithms featured in LeetCode and many mo
 
 - [Two Number Sum](/algos/two-number-sum)
 - [Validate Sub Sequence](/algos/validate-sub-seq/)
+- [Sorted Squared Array](/algos/sorted-squared-array/)
 
 ## To create a new Algo
 
