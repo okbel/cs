@@ -1,18 +1,9 @@
 import assert from "assert";
-import { Console } from "console";
 import fn from "./algo.mjs";
 
 // All Cases -> Format: [input, output]
-const tests = [
-  [
-    [
-      [5, 1, 22, 25, 6, -1, 8, 10],
-      [1, 6, -1, 10],
-    ],
-    true,
-  ],
-  [[[5, 1, 22, 25, 6, -1, 8, 10], [25]], true],
-];
+// Write your tests below
+const tests = [[0, true]];
 
 try {
   console.log(`🌬️ Running ${tests.length} Tests.`);

@@ -5,6 +5,10 @@ Here there are some basic to complex algorithms featured in LeetCode and many mo
 - [Two Number Sum](/algos/two-number-sum)
 - [Validate Sub Sequence](/algos/validate-sub-seq/)
 
+## To create a new Algo
+
+Duplicate the `0_template` folder and rename with your algo name.
+
 ## Anatomy of tests
 
 File: `algo.mjs` contains the algorithm. Should be default exported.

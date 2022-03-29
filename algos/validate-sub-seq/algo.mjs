@@ -1,9 +1,13 @@
-export default function validateSubSeq(arr, seq) {
-  let i = 0; // arr idx
-  let k = 0; // seq idx
-  while (i < arr.length && k < seq.length) {
-    if (arr[i] === seq[k]) k++;
-    i++;
+// T: O(n)
+// S: O(1)
+function validateSubSeq(arr, seq) {
+  let seqIdx = 0;
+  let arrIdx = 0;
+  while (seqIdx < seq.length && arrIdx < arr.length) {
+    if (seq[seqIdx] === arr[arrIdx]) seqIdx++;
+    arrIdx++;
   }
-  return k === seq.length;
+  return seqIdx === seq.length;
 }
+
+export default validateSubSeq;
